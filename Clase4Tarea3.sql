@@ -1,0 +1,1 @@
+select count(publicacion.idpublicacion) from publicacion where autor = 'Eric G. Coronel Castillo';
